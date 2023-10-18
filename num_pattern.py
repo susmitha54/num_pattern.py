@@ -27,5 +27,4 @@ for row in range(9):
             print('1',end=' ')              
         else:
             print(' ',end=' ')  
-            
     print( )
